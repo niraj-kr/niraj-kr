@@ -14,19 +14,19 @@
 ### Languages and Tools:
 
 
-    - CORE-JAVA
-    - ADV-JAVA BEGINEER
-    - HTML5
-    - CSS[SCSS]
-    - BOOTSTRAP5
-    - ES6
+    * CORE-JAVA
+    * ADV-JAVA BEGINEER
+    * HTML5
+    * CSS[SCSS]
+    * BOOTSTRAP5
+    * ES6
         - REACTJS
         - JSON
-    - FIGMA
-    - ECLIPSE
-    - VSCODE
-    - BASH
-    - GIT
+    * FIGMA
+    * ECLIPSE
+    * VSCODE
+    * BASH
+    * GIT
     
 <br/>
 
