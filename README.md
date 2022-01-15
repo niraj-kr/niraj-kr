@@ -1,16 +1,48 @@
-### Hi there 👋
 
-<!--
-**niraj-kr/niraj-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Niraj 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Student!
+- 🧑‍🎓 I'm currently pursuing <strong>B.tech</strong> in <strong>computer science</strong>
+- 🏴󠁩󠁤󠁪󠁷󠁿 I'm <strong>Java</strong> developer 
+- 🌱 I'm currently learning everything
+
+
+
+<br />
+
+### Languages and Tools:
+
+
+    - CORE-JAVA
+    - ADV-JAVA BEGINEER
+    - HTML5
+    - CSS[SCSS]
+    - BOOTSTRAP5
+    - ES6
+        - REACTJS
+        - JSON
+    - FIGMA
+    - ECLIPSE
+    - VSCODE
+    - BASH
+    - GIT
+
+[<img align="right" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+---
+
+---
+
+---
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/niraj-kumar-162838185/
+
+
