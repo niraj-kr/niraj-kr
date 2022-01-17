@@ -33,16 +33,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-kr&layout=compact&theme=dark) <br/> <br/>
 ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraj-kr&count_private=true&theme=dark&hide=contribs,prs)
 
+   
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+   
 
 <br />
 <br />
 
----
-
----
-
----
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 
