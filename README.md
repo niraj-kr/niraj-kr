@@ -1,45 +1,57 @@
 # Hi there, I'm Niraj 👋
 
----
-
-## 🚀 About Me
-
-- 🌱 Learning **Microservices, Spring Security, and System Design**
-- 💡 Interested in backend architecture, database optimization, and scalable applications
-- 🛠️ Focused on clean code, API design, and enterprise application development
-- 🎯 Aspiring to become an expert backend engineer
+Java Backend Developer | Spring Boot | REST APIs | JWT Authentication | MySQL | MongoDB
 
 ---
 
-## 🛠️ Tech Stack
+Backend developer focused on building scalable and secure applications with Java and Spring Boot. I enjoy creating well-structured REST APIs, implementing authentication and authorization, optimizing database interactions, and designing maintainable backend architectures.
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+Currently learning more about microservices, system design, backend scalability, and software engineering best practices through real-world projects and continuous experimentation.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Backend Development
+
+| **Java** | **Spring Boot** | **MongoDB** | **MySQL** |
+|---------|----------------|-------------|-----------|
+| ![Java](https://skillicons.dev/icons?i=java) | ![Spring](https://skillicons.dev/icons?i=spring) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![MySQL](https://skillicons.dev/icons?i=mysql) |
+
+### Web & API Fundamentals
+
+| **HTTP** | **REST** |
+|---------|----------|
+| ![HTTP](https://img.shields.io/badge/HTTP-Protocol-blue) | ![REST](https://img.shields.io/badge/REST-Architecture-green) |
+
+### Frameworks & Libraries
+
+| **Spring Data JPA** | **Spring Security** | **Jackson** | **Lombok** |
+|----------------|-------------|------------| ------------ |
+| ![Spring Data](https://img.shields.io/badge/Spring%20Data-Data%20Access-brightgreen?logo=spring) | ![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-brightgreen?logo=spring) | ![Jackson**](https://img.shields.io/badge/Jackson-JSON-blue?logo=java) | ![Lombok](https://img.shields.io/badge/Lombok-Code%20Reduction-red?logo=java) |
+
+### Testing
+
+| **JUnit 5** | **Mockito** |
+|------------|-------------|
+| ![JUnit](https://img.shields.io/badge/JUnit-5-25A162?logo=junit5&logoColor=white) | ![Mockito](https://img.shields.io/badge/Mockito-Testing-green?logo=java) |
+
+### Software Design & Architecture
+
+| **Design Patterns** |
+|---------------------|
+| ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-OOP-orange) |
 
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+### Developer Tools
 
-### 🎨 Frontend
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+| **Git** | **Linux** | **Postman** | **Gradle** |
+|-----|-------|---------|---------|
+| ![Git](https://skillicons.dev/icons?i=git) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Postman](https://skillicons.dev/icons?i=postman) | ![Gradle](https://img.shields.io/badge/Gradle-Build%20Tool-02303A?logo=gradle&logoColor=white) |
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
+💼 Open to **Java Backend / Spring Boot** opportunities.
 
 ---
 
@@ -48,3 +60,5 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/niraj-kr
 - 📧 Email: niraj825316@gmail.com
 - 🐙 GitHub: https://github.com/niraj-kr
+
+
