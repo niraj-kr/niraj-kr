@@ -4,9 +4,9 @@ Java Backend Developer | Spring Boot | REST APIs | JWT Authentication | MySQL | 
 
 ---
 
-Backend developer focused on building scalable and secure applications with Java and Spring Boot. I enjoy creating well-structured REST APIs, implementing authentication and authorization, optimizing database interactions, and designing maintainable backend architectures.
+**Backend Developer** focused on building scalable and secure applications with **Java** and **Spring Boot**. I enjoy creating well-structured **RESTful APIs**, implementing a**uthentication** and **authorization**, optimizing **database interactions**, and designing **maintainable backend architectures**.
 
-Currently learning more about microservices, system design, backend scalability, and software engineering best practices through real-world projects and continuous experimentation.
+Currently learning more about **Microservices, System Design, Backend Scalability**, and **Software Engineering Best Practices** through real-world projects and continuous experimentation.
 
 ---
 
